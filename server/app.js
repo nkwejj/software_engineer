@@ -1,3 +1,5 @@
+//这是B2分支的sever/app.js
+
 // 导入express框架
 const express = require('express');
 // 创建express服务器实例
