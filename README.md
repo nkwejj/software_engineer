@@ -1,3 +1,5 @@
+this is branch B2
+
 NKU software_engineer 大作业
 
 Vue + JS + MySQL
